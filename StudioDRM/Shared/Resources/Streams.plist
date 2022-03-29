@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Basic Stream - No DRM</string>
+		<key>content_id</key>
+		<string>basic-stream</string>
+		<key>playlist_url</key>
+		<string>https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8</string>
+		<key>is_protected</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Advanced Stream - No DRM</string>
+		<key>content_id</key>
+		<string>advanced-stream</string>
+		<key>playlist_url</key>
+		<string>https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8</string>
+		<key>is_protected</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>content_key_id_list</key>
+		<array>
+			<string></string>
+		</array>
+		<key>name</key>
+		<string>JW Player Demo - Studio DRM</string>
+		<key>content_id</key>
+		<string>982b5b94-edf4-4145-b918-75fe9f70790e</string>
+		<key>studio_drm_token</key>
+		<string></string>
+		<key>playlist_url</key>
+		<string>https://d2540nayx53mpm.cloudfront.net/vuworkflow/content/vod/982b5b94-edf4-4145-b918-75fe9f70790e/982b5b94-edf4-4145-b918-75fe9f70790e_drm_97413f06-7ac3-4d79-b366-241b71e6460a.ism/.m3u8</string>
+		<key>is_protected</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>content_key_id_list</key>
+		<array>
+			<string></string>
+		</array>
+		<key>name</key>
+		<string>Tomorrowland - Studio DRM</string>
+		<key>content_id</key>
+		<string>tomorrowland2015</string>
+		<key>studio_drm_token</key>
+		<string></string>
+		<key>playlist_url</key>
+		<string>https://d1chyo78gdexn4.cloudfront.net/vualto-demo/test/tomorrowland/vualto-demo-all.ism/manifest.m3u8</string>
+		<key>renew_interval</key>
+		<integer>0</integer>
+		<key>is_protected</key>
+		<true/>
+	</dict>
+</array>
+</plist>
