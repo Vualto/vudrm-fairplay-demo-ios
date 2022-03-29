@@ -1,0 +1,20 @@
+PODS:
+  - StudioDRMKit (24)
+  - StudioDRMKit-tvos (25)
+
+DEPENDENCIES:
+  - StudioDRMKit
+  - StudioDRMKit-tvos
+
+SPEC REPOS:
+  https://bitbucket.org/vualtomobile/studiodrm-pods.git:
+    - StudioDRMKit
+    - StudioDRMKit-tvos
+
+SPEC CHECKSUMS:
+  StudioDRMKit: a90755e5ce4979aaca0c6137f99235c25c5b9744
+  StudioDRMKit-tvos: c958adb65308d7bfd4cdd8db81b9dd45d27060bc
+
+PODFILE CHECKSUM: e1fd80c4e527cd704abb2dbbc4c195fb2c0a9310
+
+COCOAPODS: 1.10.0
